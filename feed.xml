@@ -42,5 +42,16 @@
       <itunes:episodeType>trailer</itunes:episodeType>
       <itunes:explicit>no</itunes:explicit>
     </item>
+    <item>
+      <title>AI 简史 EP1：图灵的那篇论文（1950）</title>
+      <description><![CDATA[1950 年秋天，图灵在论文《计算机器与智能》里问：机器能思考吗？从布莱切利园的密码破译，到图灵测试的设计，再到他预言了七十年后的大模型路线——一切 AI 故事的起点。本节目为 AI 生成。]]></description>
+      <enclosure url="https://guanlan1469.github.io/ai-jianshi-feed/EP1.mp3" length="5789437" type="audio/mpeg"/>
+      <guid isPermaLink="false">ai-jianshi-ep1</guid>
+      <pubDate>Thu, 08 Oct 2026 10:17:00 +0800</pubDate>
+      <itunes:duration>362</itunes:duration>
+      <itunes:episode>1</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
   </channel>
 </rss>
