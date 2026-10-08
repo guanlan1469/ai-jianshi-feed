@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+     xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+     xmlns:atom="http://www.w3.org/2005/Atom"
+     xmlns:podcast="https://podcastindex.org/namespace/1.0">
+  <channel>
+    <title>AI 简史</title>
+    <link>https://github.com/guanlan1469/ai-jianshi-feed</link>
+    <language>zh-cn</language>
+    <description><![CDATA[你有没有想过，今天和你聊天的 AI，是从哪里来的？
+
+《AI 简史》带你回到一切开始的地方：1950 年图灵写下那篇论文的书桌前，达特茅斯那个闷热的夏天，两次 AI 寒冬里不肯放弃的人，2012 年点燃深度学习的那块显卡，AlphaGo 落子的那个夜晚，以及 ChatGPT 引爆全球的那个冬天。
+
+每周一期，8-10 分钟，讲一个 AI 史上的关键时刻：关键人物、关键事件、关键转折。
+
+本节目为 AI 生成，故事是真的。]]></description>
+    <itunes:author>Lan</itunes:author>
+    <itunes:owner>
+      <itunes:name>Lan</itunes:name>
+      <itunes:email>guanlan1469@gmail.com</itunes:email>
+    </itunes:owner>
+    <itunes:summary><![CDATA[你有没有想过，今天和你聊天的 AI，是从哪里来的？
+
+《AI 简史》带你回到一切开始的地方：1950 年图灵写下那篇论文的书桌前，达特茅斯那个闷热的夏天，两次 AI 寒冬里不肯放弃的人，2012 年点燃深度学习的那块显卡，AlphaGo 落子的那个夜晚，以及 ChatGPT 引爆全球的那个冬天。
+
+每周一期，8-10 分钟，讲一个 AI 史上的关键时刻：关键人物、关键事件、关键转折。
+
+本节目为 AI 生成，故事是真的。]]></itunes:summary>
+    <!-- TODO: 首期生成后，把 podcast-helper 生成的封面传到仓库根目录 cover.png，再把下面这行换成自托管地址 -->
+    <itunes:image href="https://guanlan1469.github.io/ai-jianshi-feed/cover.png"/>
+    <itunes:category text="History"/>
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:type>serial</itunes:type>
+    <atom:link href="https://guanlan1469.github.io/ai-jianshi-feed/feed.xml" rel="self" type="application/rss+xml"/>
+  </channel>
+</rss>
