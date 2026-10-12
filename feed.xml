@@ -26,7 +26,6 @@
 每周一期，8-10 分钟，讲一个 AI 史上的关键时刻：关键人物、关键事件、关键转折。
 
 本节目为 AI 生成，故事是真的。]]></itunes:summary>
-    <!-- TODO: 首期生成后，把 podcast-helper 生成的封面传到仓库根目录 cover.png，再把下面这行换成自托管地址 -->
     <itunes:image href="https://guanlan1469.github.io/ai-jianshi-feed/cover.png"/>
     <itunes:category text="History"/>
     <itunes:explicit>no</itunes:explicit>
@@ -35,7 +34,7 @@
     <item>
       <title>AI 简史：预告片</title>
       <description><![CDATA[《AI 简史》节目预告：十期节目，七十多年，看 AI 如何从一个疯狂的想法变成改变世界的力量。每周一更新，第一期：图灵的那篇论文。本节目为 AI 生成。]]></description>
-      <enclosure url="https://guanlan1469.github.io/ai-jianshi-feed/trailer.mp3" length="1448701" type="audio/mpeg"/>
+      <enclosure url="https://guanlan1469.github.io/ai-jianshi-feed/trailer.mp3" length="1425661" type="audio/mpeg"/>
       <guid isPermaLink="false">ai-jianshi-trailer</guid>
       <pubDate>Thu, 08 Oct 2026 10:27:00 +0800</pubDate>
       <itunes:duration>90</itunes:duration>
@@ -45,11 +44,22 @@
     <item>
       <title>AI 简史 EP1：图灵的那篇论文（1950）</title>
       <description><![CDATA[1950 年秋天，图灵在论文《计算机器与智能》里问：机器能思考吗？从布莱切利园的密码破译，到图灵测试的设计，再到他预言了七十年后的大模型路线——一切 AI 故事的起点。本节目为 AI 生成。]]></description>
-      <enclosure url="https://guanlan1469.github.io/ai-jianshi-feed/EP1.mp3" length="5789437" type="audio/mpeg"/>
+      <enclosure url="https://guanlan1469.github.io/ai-jianshi-feed/EP1.mp3" length="5772157" type="audio/mpeg"/>
       <guid isPermaLink="false">ai-jianshi-ep1</guid>
       <pubDate>Thu, 08 Oct 2026 10:17:00 +0800</pubDate>
-      <itunes:duration>362</itunes:duration>
+      <itunes:duration>361</itunes:duration>
       <itunes:episode>1</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>AI 简史 EP2：达特茅斯的夏天（1956）</title>
+      <description><![CDATA[1956 年夏天，麦卡锡、明斯基、香农、罗切斯特在达特茅斯学院办了一场暑期研讨会，"人工智能"这个词第一次出现在纸面上。纽厄尔和西蒙带来了"逻辑理论家"，一群年轻人相信机器两年内就能思考——他们错了，但错得很有价值。本节目为 AI 生成。]]></description>
+      <enclosure url="https://guanlan1469.github.io/ai-jianshi-feed/EP2.mp3" length="6658045" type="audio/mpeg"/>
+      <guid isPermaLink="false">ai-jianshi-ep2</guid>
+      <pubDate>Mon, 12 Oct 2026 09:00:00 +0800</pubDate>
+      <itunes:duration>416</itunes:duration>
+      <itunes:episode>2</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>no</itunes:explicit>
     </item>
